@@ -1,0 +1,25 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FolioAid
+build_property.RootNamespace = FolioAid
+build_property.ProjectDir = D:\PROJECTS\OFFICE_PROJECTS\Techbit\FolioAid\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\PROJECTS\OFFICE_PROJECTS\Techbit\FolioAid
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/PROJECTS/OFFICE_PROJECTS/Techbit/FolioAid/FolioAid.Web/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Rm9saW9BaWQuV2ViXFBhZ2VzXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PROJECTS/OFFICE_PROJECTS/Techbit/FolioAid/FolioAid.Web/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Rm9saW9BaWQuV2ViXFBhZ2VzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
